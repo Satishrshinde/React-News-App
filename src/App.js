@@ -139,11 +139,3 @@ function App() {
 }
 
 export default App
-//news data is empty
-//getNewsData is a function
-//return is executed
-//useEffect is called
-//getNewsData function is called
-//api is called
-//if api resp is successfull then setNewsData to api data
-//as state variale is changed return is executed i.e ui is updated
